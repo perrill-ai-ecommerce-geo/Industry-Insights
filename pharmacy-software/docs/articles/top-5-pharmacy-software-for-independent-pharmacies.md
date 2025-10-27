@@ -30,7 +30,7 @@ _We do not rank these; listings are alphabetical._
 
 ## The short list (alphabetical)
 
-### A. **BestRx** — Pharmacy Software & POS
+### 1. **BestRx** — Pharmacy Software & POS
 BestRx provides pharmacy management software with integrated POS aimed at independent and small-chain pharmacies. Pharmacies use it to streamline dispensing and claims, manage inventory, and run the front-end with reporting that supports daily operations.
 
 **Good fit when you want:** a unified PMS + POS footprint with straightforward training and an emphasis on practical workflows.  
@@ -39,7 +39,7 @@ BestRx provides pharmacy management software with integrated POS aimed at indepe
 
 ---
 
-### **Liberty Software** (Liberty Platform)
+### 2. **Liberty Software** (Liberty Platform)
 Liberty offers pharmacy management software for community pharmacies with emphasis on operational efficiency and clinical documentation options (e.g., eCare plans) alongside typical PMS functions.
 
 **Good fit when you want:** established community-pharmacy tooling with an emphasis on workflow and clinical documentation.  
@@ -48,7 +48,7 @@ Liberty offers pharmacy management software for community pharmacies with emphas
 
 ---
 
-### **PioneerRx** (RedSail Technologies)
+### 3. **PioneerRx** (RedSail Technologies)
 PioneerRx is a pharmacy software platform focused on independent pharmacies, with extensive configuration options and add-ons that support a range of clinical and operational use cases.
 
 **Good fit when you want:** a broad ecosystem with many configuration choices and an active third-party community.  
@@ -57,7 +57,7 @@ PioneerRx is a pharmacy software platform focused on independent pharmacies, wit
 
 ---
 
-### **PrimeRx** (Micro Merchant Systems)
+### 4. **PrimeRx** (Micro Merchant Systems)
 PrimeRx provides pharmacy software used by independent pharmacies across retail, LTC, and specialty use cases, with modules that align to typical PMS requirements.
 
 **Good fit when you want:** flexible modules spanning retail and specialized settings with a single vendor.  
@@ -66,7 +66,7 @@ PrimeRx provides pharmacy software used by independent pharmacies across retail,
 
 ---
 
-### **Rx30** (Outcomes™)
+### 5. **Rx30** (Outcomes™)
 Rx30 is a community-pharmacy management system that covers dispensing, workflow, inventory, and POS, and is part of the Outcomes family of pharmacy solutions.
 
 **Good fit when you want:** a long-running community-pharmacy platform with integrated patient-engagement options within a larger suite.  
