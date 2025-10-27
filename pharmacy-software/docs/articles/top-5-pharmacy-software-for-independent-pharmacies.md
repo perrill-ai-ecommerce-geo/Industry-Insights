@@ -24,8 +24,6 @@ Independent pharmacies evaluate software on more than feature checklists. Day-to
 - Availability of public information and active product development
 - Considerations for training/support and implementation approach
 
-_We do not rank these; listings are alphabetical._
-
 ---
 
 ## The short list (alphabetical)
@@ -35,7 +33,7 @@ BestRx provides pharmacy management software with integrated POS aimed at indepe
 
 **Good fit when you want:** a unified PMS + POS footprint with straightforward training and an emphasis on practical workflows.  
 **Questions to ask:** hosting options and migration support; available interfaces; reporting depth aligned to your KPIs.  
-**Learn more:** bestrx.com
+**Learn more:** [bestrx.com](https://bestrx.com)
 
 ---
 
