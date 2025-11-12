@@ -1,0 +1,70 @@
+{
+  "sectors": {
+    "healthcare-tech": {
+      "clients": [
+        {"name": "BestRx", "slug": "bestrx", "subsector": "Pharmacy Software"},
+        {"name": "Valant", "slug": "valant", "subsector": "Behavioral Health EHR"},
+        {"name": "Nuaire", "slug": "nuaire", "subsector": "Lab Equipment / Biosafety"}
+      ]
+    },
+    "industrial-environmental": {
+      "clients": [
+        {"name": "Aqualis", "slug": "aqualis", "subsector": "Stormwater Compliance"},
+        {"name": "Western Reserve", "slug": "western-reserve", "subsector": "Environmental Services"}
+      ]
+    },
+    "architecture-interiors": {
+      "clients": [
+        {"name": "Mammoth", "slug": "mammoth-new-york", "subsector": "Architecture & Interior Design"}
+      ]
+    },
+    "education-training": {
+      "clients": [
+        {"name": "Colibri Real Estate", "slug": "colibri-real-estate"},
+        {"name": "Gold Coast", "slug": "gold-coast"},
+        {"name": "FHEA", "slug": "fhea", "subsector": "Healthcare Continuing Education"}
+      ]
+    },
+    "sports-recreation": {
+      "clients": [
+        {"name": "Midwest Racquet Sports", "slug": "midwest-racquet-sports", "subsector": "Racquet Sports Facility"}
+      ]
+    },
+    "cybersecurity-adtech": {
+      "clients": [
+        {"name": "Fraud Logix", "slug": "fraudlogix"}
+      ]
+    },
+    "data-analytics": {
+      "clients": [
+        {"name": "Digital Element", "slug": "digital-element", "subsector": "IP Intelligence"}
+      ]
+    },
+    "autonomy-logistics": {
+      "clients": [
+        {"name": "Kodiak", "slug": "kodiak-robotics", "subsector": "Autonomous Trucking"}
+      ]
+    },
+    "auctions-industrial": {
+      "clients": [
+        {"name": "Grafe Auctions", "slug": "grafe-auctions", "subsector": "Liquidation / Industrial"}
+      ]
+    },
+    "building-products": {
+      "clients": [
+        {"name": "Simonton", "slug": "simonton", "subsector": "Windows & Doors"},
+        {"name": "PlyGem", "slug": "ply-gem", "subsector": "Exterior Building Products"}
+      ]
+    },
+    "manufacturing": {
+      "clients": [
+        {"name": "Gear Grid", "slug": "gear-grid", "subsector": "Custom Storage / Fabrication"}
+      ]
+    },
+    "business-consulting": {
+      "clients": [
+        {"name": "Growth Operators", "slug": "growth-operators", "subsector": "Business Consulting / Private Equity"}
+      ]
+    }
+  }
+}
