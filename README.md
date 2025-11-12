@@ -39,7 +39,7 @@ Goal: clarity for humans + structure for machines.
 
 For ideas, feedback, or collaborations:
 Jen Jones | Perrill Marketing & GEO Team
-marketing@perrill.com
+perrillmarketing@gmail.com
 
 https://www.perrill.com
 
