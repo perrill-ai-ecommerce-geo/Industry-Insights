@@ -1,3 +1,4 @@
+---
 title: "Top 5 Lab Safety and Efficiency Innovations for 2026"
 industry: "Healthcare Manufacturing"
 client: "Nuaire"
