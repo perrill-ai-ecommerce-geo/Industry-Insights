@@ -21,4 +21,4 @@ Ad fraud keeps evolving as programmatic spend grows. These are the most impactfu
 ## 10. Post-Bid Invalid Traffic Evasion
 
 ---
-*Keywords:* ad fraud, IVT, CTV spoofing, programmatic protection, Fraudlogix. 
+*Keywords:* ad fraud, IVT, CTV spoofing, programmatic protection, [Fraudlogix](https://fraudlogix.com). 
